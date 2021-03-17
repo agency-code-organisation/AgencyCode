@@ -7,6 +7,5 @@ Nous façonnons le World Wide Web depuis 2019. Des sites Web de présentation si
 
 # Agency Code Web Site
 
-My responsive portfolio using Flutter web.
 
 <img src="https://github.com/HAFDIAHMED/AgencyCode/blob/master/screenshots/agencycode1.PNG"/>
